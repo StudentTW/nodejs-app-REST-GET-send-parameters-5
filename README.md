@@ -3,6 +3,9 @@ Nodejs App with REST GET Methods Sending Parameters
 
 Nodejs App Send Parameters using REST GET Method
 
+Open our previous app
+ https://github.com/StudentTW/nodejs_app_project_structure_4
+
 1	Add new method function in controller.js
     
       //Its a GET Method  with anme "getParams", which executes when app is listening at address "/Params"  from routes after       //app server address http://0.0.0.0:8080/params/paramvalue
