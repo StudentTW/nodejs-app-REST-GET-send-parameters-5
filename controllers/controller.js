@@ -1,6 +1,6 @@
 
 
-//Its a GET Method  with anme "getParams", which executes when app is listening at address "/Params"  from routes after app server address http://0.0.0.0:8080/Services
+//Its a GET Method  with anme "getParams", which executes when app is listening at address "/Params"  from routes after app server address http://0.0.0.0:8080/params/paramvalue
 exports.getParams = function (req, res) {
   //param1 is the parameter that is sent with this GET Request
   // To access this parameter we use req.params.param1
